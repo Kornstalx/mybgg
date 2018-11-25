@@ -1,0 +1,18 @@
+{
+    "project": {
+        "name": "mybgg",
+        "title": ""
+    },
+    "boardgamegeek": {
+        "user_name": "Kornstalx",
+        "extra_params": {
+            "own": 1
+        }
+    },
+    "algolia": {
+        "app_id": "UNAVZTJZZQ",
+        "api_key_search_only": "70bd14e2ec4c34ded506763311c16c10",
+        "index_name": "BGGLIST",
+        "hits_per_page": 28
+    }
+}
