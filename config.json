@@ -4,7 +4,7 @@
         "title": ""
     },
     "boardgamegeek": {
-        "user_name": "Kornstalx",
+        "user_name": "YOUR_BGG_USERNAME",
         "extra_params": {
             "own": 1
         }
@@ -14,6 +14,5 @@
         "api_key_search_only": "70bd14e2ec4c34ded506763311c16c10",
         "index_name": "BGGLIST",
         "hits_per_page": 48
-		"sort_by": "asc(name)"
     }
 }
